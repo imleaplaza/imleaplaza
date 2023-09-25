@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imleaplaza
-- 👀 I’m interested in solving problems
+- 👀 I like solving problems
 - 🌱 I’m currently learning Ruby on Rails
 
 <!---
